@@ -18,7 +18,7 @@ win-ansible-repositoryName
 |    roles  |   所有roles   |      |
 |    ansible.cfg  |   项目配置文件   |      |
 |    sample.yml  |   项目入口文件   |      |
-|    requirements.yml  |   项目所依赖的模块化公共roles下载列表   |  项目运行的时候    |
+|    requirements.yml  |   项目所依赖的模块化公共roles下载列表   |  项目运行的时候[下载](https://github.com/websoft9win)    |
 |    Changelog.md  |   日志   |      |
 |    License.md  |   开源协议   |      |
 |    project_readme.md  |   项目概要   |  替换现有README.md    |
