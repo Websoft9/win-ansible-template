@@ -26,7 +26,7 @@ win-ansible-repositoryName
 
 ## 项目运行
 
-通过如下4个步骤即可启动项目运行
+当Windows服务器具备Ansible的前置条件后，在服务器端可以通过如下4个步骤启动项目运行
 
 ```
 pip install ansible
