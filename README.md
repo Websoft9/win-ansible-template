@@ -10,7 +10,7 @@ win-ansible-repositoryName
 
 ## 项目结构
 
-|   项   |      |      |
+|   项   |  说明    |   备注   |
 | ---- | ---- | ---- |
 |   .github   |  Github通过的在线action服务    |      |
 |   docs   |   产品文档   |      |
