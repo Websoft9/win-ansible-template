@@ -4,9 +4,10 @@
 
 ## 项目命名
 
-win-ansible-repositoryName
+win-ansible-repositoryName  
+例如：win-ansible-wamp, win-ansible-wampserver  
 
-例如：win-ansible-wamp, win-ansible-wampserver
+前缀**win**的作用主要是区别于Linux项目，便于在项目库中识别。
 
 ## 项目结构
 
