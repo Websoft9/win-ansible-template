@@ -29,6 +29,21 @@ win-ansible-repositoryName
 
 ### 前置条件
 
+下面分别就主动端和被控端所需的条件进行精准的说明
+
+#### 主控端
+
+主控端必须是Linux系统，然后在Ansible的标准安装之上增加如下：
+
+```
+pip install pywinrm
+apt-get install libkrb5-dev
+pip install kerberos
+pip install paramiko PyYAML Jinja2 httplib2 six
+```
+
+#### 被控端
+
 Ansible可以管理包括Windows 7、8.1和10的桌面操作系统以及包括Windows Server 2008、2008 R2、2012、2012 R2、2016和2019的服务器操作系统。但需要如下的前置条件：
 
 * Windows主机上安装PowerShell 3.0或更高版本，并且至少要安装.NET 4.0。
