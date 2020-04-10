@@ -1,0 +1,13 @@
+- src: http://github.com/websoft9win/role_common
+  version: master
+
+- src: http://github.com/websoft9win/role_cloud
+  version: master
+
+# Add more roles when need
+
+- src: http://github.com/websoft9win/role_prend
+  version: master
+
+- src: http://github.com/websoft9win/role_end
+  version: master
